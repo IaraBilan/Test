@@ -1,0 +1,35 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+   
+    width: 189px;
+    height: 38px;
+
+    background: rgba(74, 157, 255, 0.27);
+    border-radius: 10px;
+}
+
+.input-control {
+    width: 320px;
+    height: 28px;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.label-control2 {
+    width: 174px;
+    height: 15px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #5D6E97;
+}
